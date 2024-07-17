@@ -1,1 +1,1 @@
-Ödevin içeriği Program.cs dosyasında bulunuyor.
+Ödevin içeriği ConsoleApp1 doyasının içerisinde ki Program.cs dosyasında bulunuyor.
